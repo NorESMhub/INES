@@ -1,4 +1,4 @@
-# ines
+# INES
 Infrastructure for Norwegian Earth System modelling (INES)
 
 - website 
