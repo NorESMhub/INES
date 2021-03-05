@@ -18,6 +18,7 @@ Infrastructure for Norwegian Earth System modelling (INES)
 - [Galaxy Climate Tools](https://github.com/NordicESMhub/galaxy-tools)
 
 ## Analyze and Visualize
+- [EOSC-Nordic Jupyterhub](https://eosc-nordic.uiogeo-apps.sigma2.no/) ([request access](https://github.com/NorESMhub/INES/issues/new) or email annefou-at-geo.uio.no)
 - [INES Jupyterhub](http://data.ines.sigma2.no) ([request access](https://github.com/NorESMhub/INES/issues/new))
 - [NorESM CMIP Jupyterhub](https://noresm.eva.sigma2.no/hub/login) ([request access](https://github.com/NorESMhub/INES/issues/new))
 - [European Galaxy Climate](https://climate.usegalaxy.eu/) (open with free registration)
